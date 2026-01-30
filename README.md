@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nothing 期刊 | 无界之声</title>
+    <title>nothing  | 无界之声</title>
     <style>
         :root {
             --bg-color: #f4f4f4;
@@ -807,7 +807,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2026 nothing 期刊 | 由代码构建的虚空</p>
+        <p>&copy; 2026 nothing  | 由代码构建的虚空</p>
         <p style="margin-top:10px; font-size:0.85em;">在这里，每个声音都值得被听见 🎭</p>
     </footer>
 
